@@ -37,6 +37,7 @@ Users should be able to:
 
 - Semantic HTML5 markup
 - CSS custom properties
+- Flexbox
 - (https://getbootstrap.com/) Bootstrap v5.2
 - (https://fonts.google.com/) Google Fonts
 - (https://fontawesome.com/) Font Awesome
